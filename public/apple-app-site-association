@@ -1,10 +1,10 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
-                “appID”: “7432PBP7HT.org.capital.bee”,
-                “paths”: [“*”]
+                "appID": "7432PBP7HT.org.capital.bee",
+                "paths": ["*"]
             }
         ]
     }
